@@ -1,0 +1,17 @@
+# Revolutionizing Liver Care: Predicting Liver Cirrhosis using ML
+
+This project aims to develop a predictive model for early detection of liver cirrhosis using advanced machine learning techniques. It demonstrates the potential of AI to support early diagnosis and optimize healthcare resources.
+
+## 🔍 Features
+- Predict liver cirrhosis risk from patient data
+- User-friendly Flask web interface
+- ML model trained using Random Forest with 68% accuracy
+- Integrated with Normalizer and saved models
+
+## 🧠 Technologies Used
+- Python, Pandas, Scikit-learn, Matplotlib
+- Flask (Web Framework)
+- HTML/CSS/JavaScript for UI
+- Jupyter Notebook for model training
+
+
